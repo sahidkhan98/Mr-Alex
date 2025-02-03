@@ -1,0 +1,2 @@
+import MAFIA
+MAFIA.uid
