@@ -1,2 +1,2 @@
 import MAFIA
-MAFIA.uid
+MAFIA.main()
